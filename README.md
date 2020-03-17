@@ -1,5 +1,6 @@
 # piscine_reloaded
-Some task from piscine when school started
+
+Review the basics of the Piscine with a series of exercises inspired from it.
 
 Objectives
   - Reviews
